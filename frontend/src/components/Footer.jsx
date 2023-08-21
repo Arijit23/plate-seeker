@@ -22,9 +22,9 @@ export default function Footer() {
               Our Creators
             </h6>
             <ul>
+              <li className="py-2 text-sm">Arijit Laha</li>
               <li className="py-2 text-sm">Spandan Das Barman</li>
               <li className="py-2 text-sm">Saurabh Kumar</li>
-              <li className="py-2 text-sm">Arijit Laha</li>
             </ul>
           </div>
           <div>
